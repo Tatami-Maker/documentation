@@ -1,10 +1,10 @@
 # Investment DAO preset - Documentation
 
-- Token Name - Investment
-- Token Symbol - INV
-- Token Logo - INV
-- Token Supply - 1 Billion
-- Recipients - Team (2%) & DAO Treasury (98%)
+- Token Name: Investment
+- Token Symbol: INV
+- Token Logo: INV
+- Token Supply: 1 Billion
+- Recipients: Team (2%) & DAO Treasury (98%)
 - Quorum: 1%
 - Voting Period: 36 hours
 - Proposal Weight: 1 Token
