@@ -4,15 +4,15 @@ Classic Meme Token:
 
 The OG way of making a Meme Token with Rug Protection! Airdropped with a liquid market for instant meme action. 
 
-- DAO Governed by Governance Tokens – No Council
+- DAO Governed by Governance Tokens - No Council
 - 1% of Tokens allocated to up to 10 wallets
 - 89% Tokens Airdropped to the Allstars List
 - 10% Tokens for Liquidity
 - DAO holds the LP Token
-- Quorum set to 12%
-- Proposal Threshold at 1 token
-- Vote time set to 1 week
-- Mint Authority: Burned
+- Quorum: 12%
+- Proposal Threshold: 1 token
+- Vote time: 1 week
+- Mint Authority is Burned
 
 ---
 
