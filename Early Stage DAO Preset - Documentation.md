@@ -28,7 +28,7 @@
 
 1. Launching a market can increase your token’s visibility.
 
-Reasons you might not want to create a market upon launch for:
+### Reasons you might not want to create a market upon launch for:
 
 1. Creating a market requires resources.
 2. Regulatory Concerns. (Depending on jurisdiction)
