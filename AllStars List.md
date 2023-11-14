@@ -1,3 +1,5 @@
+# What is the Tatami AllStars List?
+
 In our experience, token launches fail to find the best audiences due to the lack of a valid public repository of active wallet addresses to airdrop to & there is no mechanism for judging the qaulity of the airdrop lists themselves. 
 
 From the vantage point of the community, not everyone wants to go hunting for airdrops & there is a large population out there who would rather skip the line then battle it out as reply guys on X. 
