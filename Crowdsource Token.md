@@ -2,45 +2,38 @@
 
 Egalitarian and Rug Proof! Great for crowdsourcing and kickstarting new ideas by raising funds from options and governed 100% by the token holders!
 
-- DAO Governed by Governance Tokens – No Council
-- 1% of Options allocated to up to 10 wallets
-- 99% as Options to the Allstars List
-- DAO Funded by Exercised Options
-- Quorum set to 2%
-- Proposal Threshold at 1 token
-- Vote time set to 1 week
-- Mint Authority: Burned
+- Token Name: Crowd
+- Token Symbol: CRWD
+- Token Supply: 1 Billion
+- Recipients: Team and AllStars List
+- Team Allocation: 1% of the supply in options in even amounts
+- AllStars Allocation: 99% of the supply in options in even amounts
+- Quorum: 2%
+- Mint Authority: Burnt
+- Council: No
 
 ---
 
 ## This piece of documentation aims to explain: 
 
-1. Identifying the optimal community for your token.
+1. Who your community is.
 2. Your DAO’s purpose.
 3. Whether the creation of a market is essential or not.
 
 
-## How should you identify the optimal community for your token?
+## Who is your community?
 
-When launching a token you want to airdrop tokens to people that will add value to your community, just by being a part of it. Hence, we introduce you to the All-Stars list. This list includes members of the Solana community that earned their way into this list. No bots - no duplicates. This is the optimal community you want to have.
+The Tatami All-Stars List is an invite only, application based list of wallets you can use to airdrop your token to. It only includes members of the Solana community that earned their way into this list. No bots - no duplicates.
 
 ## What is the DAO going to be used for?
 
-The DAO should be a platform where token holders submit proposals related to various community initiatives, create polls and initiate discussion. Members can then vote on these proposals to determine which ones receive the community’s support.
-The DAO will be your community’s tool to allocate the crowdsourced funds.
+The community will use the DAO to allocate the crowdsourced funds. It will act as a platform where token holders will submit proposals related to various community initiatives, create polls and initiate discussion. Members can then vote on these proposals to determine which ones receive the community’s support. 
 
+#### Notes:
+- All proceeds from the options exercise will be deposited to the DAO.
+- All unclaimed tokens will be deposited to the DAO for future distributions.
+  
 
 ## Is creating a market essential for your token?
 
-### Reasons you might want to create a market upon launch for:
-
-1. Launching a market can increase your token’s visibility.
-2. The DAO has liquidity to bootstrap the pool coming from the options exercised. 
-
-### Reasons you might not want to create a market upon launch for:
-
-1. Creating a market requires resources.
-2. Regulatory Concerns. (Depending on jurisdiction)
-3. The team might want to strengthen the community or develop their product better before launching a market.
-
-
+Market creation isn't deemed essential for this token. However, a succesfull token market launch can incentivize the option recipients to exercise.
