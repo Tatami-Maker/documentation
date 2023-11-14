@@ -4,11 +4,11 @@
 - Token Symbol: INV
 - Token Logo: INV
 - Token Supply: 1 Billion
-- Recipients: Team (2%) & DAO Treasury (98%)
+- Recipients: Team & DAO Treasury
+- Team Allocation: 2%
+- DAO Treasury Allocation: 98%
 - Quorum: 1%
-- Voting Period: 36 hours
-- Proposal Weight: 1 Token
-- Mint Authority is burnt
+- Mint Authority: Burnt
 
 ---
 
@@ -20,10 +20,7 @@
 
 ## What is the DAO going to be used for?
 
-The DAO serves as the decision making tool the community uses to make their investment decisions. 
-Token holders will submit proposals related to various community initiatives, create polls and initiate discussion. Members can then vote on these proposals to determine which ones receive the community’s support.
-
-
+This DAO serves as the decision making tool the community uses to make their investment decisions. Such decisions can include investing in tokens, NFTs or even participating in crowdfunding, liquidity pools, or other DeFi opportunities.
 
 ## How to utilize the DAO’s token allocation?
 
@@ -31,4 +28,4 @@ The tokens sent to the DAO’s treasury will be distributed to people the team w
 
 ## Is creating a market essential for your token?
 
-No market
+Market creation isn't deemed essential for this token.
