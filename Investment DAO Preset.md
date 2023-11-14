@@ -20,7 +20,7 @@
 
 ## What is the DAO going to be used for?
 
-This DAO serves as the decision making tool the community uses to make their investment decisions. Such decisions can include investing in tokens, NFTs or even participating in crowdfunding, liquidity pools, or other DeFi opportunities.
+This DAO serves as the decision making tool the community uses to make their investment decisions. Such decisions can include investing in tokens and NFTs or even participating in crowdfunding, liquidity pools or other DeFi opportunities.
 
 ## How to utilize the DAO’s token allocation?
 
