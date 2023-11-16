@@ -23,7 +23,7 @@ The OG way of making a Meme Token with Rug Protection! Airdropped with a liquid 
 3. Utilizing your DAO’s token allocation.
 4. Market Creation and token LP.
 
-Let’s start:
+### Let’s start:
 
 ## How should you identify the optimal community for your token?
 
