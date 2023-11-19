@@ -12,6 +12,8 @@
 - Mint Authority: Burnt
 - Council: Yes
 
+---
+
   # This piece of Documentation aims to explain:
 
 1. The token's distribution
